@@ -1,7 +1,4 @@
 IDEA插件:
-
-IDEA插件:
-
 Alibaba Java Coding Guidelines
 
 codota
