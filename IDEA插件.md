@@ -1,5 +1,7 @@
 IDEA插件:
 
+IDEA插件:
+
 Alibaba Java Coding Guidelines
 
 codota
@@ -11,3 +13,8 @@ FindBugs -IDEA
 Mybatisx
 
 Translation
+
+Mybatis-log-plugin
+
+Background Image Plus
+
