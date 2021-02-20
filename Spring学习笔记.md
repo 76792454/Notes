@@ -133,3 +133,6 @@ file.list();递归去扫描类(假如有类X,Y)
 1会从容器里拿已经实例化好的bean
 
 2如果拿不到他就会从beanDefinition中获取beanDefinition对象 把它实例化成一个bean
+
+Spring事务回滚
+TransactionAspectSupport.currentTransactionStatus().setRollbackOnly();
