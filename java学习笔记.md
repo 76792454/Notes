@@ -71,7 +71,8 @@ http://10.30.23.142:7000/pangu/roomManage/queryRoomMessages
 
 instanceof是Java中的二元运算符，左边是对象，右边是类；当对象是右边类或子类所创建对象时，返回true；否则，返回false。
 
-
+json和bean之间的转换
+https://www.cnblogs.com/cdf-opensource-007/p/7106018.html
 
 
 
