@@ -15,3 +15,5 @@ Translation
 Mybatis-log-plugin
 
 Background Image Plus
+
+IDEA获取激活码：https://www.ajihuo.com/
