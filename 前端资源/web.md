@@ -1,6 +1,7 @@
 ### 1、关于CSS浮动的一些理解  
 https://blog.csdn.net/qq_36595013/article/details/81810219
 ### 2、vue.config.js配置别名
+```javascript
 const path = require('path')
 const resolve = dir => path.join(__dirname, dir)
 module.exports = {
@@ -13,3 +14,4 @@ module.exports = {
       .set('components', resolve('src/components'))
   }
 }
+```
